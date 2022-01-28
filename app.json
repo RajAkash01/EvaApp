@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "EvaApp",
+    "slug": "EvaApp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "EvaApp"
+}
