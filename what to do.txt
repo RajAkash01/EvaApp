@@ -1,0 +1,21 @@
+Navigation:
+
+1.Drawer Navigation implentation.
+
+Maps:
+
+1. list of places that can visited by clicking on them and use some component to show them with places api.
+2.Use of direction api.
+
+
+Route log:
+
+1.first prepare stop detail screen.
+2.prepare card for that with moti animation.
+
+Card/grid component of records:
+1.prepare card for that. 
+2. use apisausce to fetch that.
+
+To build apk
+ ./gradlew assembleRelease
