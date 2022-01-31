@@ -87,7 +87,7 @@ function Maps({ navigation }) {
             latitude: markerlat,
             longitude: markerlong,
           }}
-          image={require('../assets/pin.jpg')}
+          image={require('../assets/pin.png')}
           title="pointed location"
           description="location of exact latitude and longitude"
         ></Marker>
